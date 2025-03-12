@@ -1,0 +1,13 @@
+site_name: Temperature Conversion
+
+theme:
+  name: "material"
+font: false
+
+nav:
+  - Overview: index.md
+  - API Documentation: api.md
+
+plugins:
+  - search
+  - mkdocstrings
